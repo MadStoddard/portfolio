@@ -13,7 +13,7 @@ This portfolio of work showcases the tech talents of Madeline Stoddard. It inclu
 
 ## Installation
 
-This website requires no installation. Click link to open webpage: [](Madeline Stoddard's Website)
+This website requires no installation. Click link to open webpage: [https://madstoddard.github.io/portfolio/](Madeline Stoddard's Website)
 
 ## Usage
 
