@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    padding: 10px 30px;
+    background-color: #f2ebe9;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+header h1 a {
+    font-weight: bold;
+    font-size: 36px;
+    color:rgb(38, 65, 67);
+    margin: 0;
+    text-shadow: 0 0 10px rgba(233, 19, 144, 0.747);
+}
+
+header a {
+    text-decoration: none;
+    color: #de5499;
+    font-weight: bold;
+}
+
+header nav {
+    margin: 7px 0;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+    align-items: center;
+}
+
+header nav ul a {
+    padding: 10px 15px;
+}
+
+.work {
+    padding: 60px;
+}
+
+.hero img {
+    width: 100%;
+
+}
+  
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.work-samples {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.work-sample {
+    margin: 20px;
+    background: #de5499;
+    color: #f2ebe9;
+    flex: auto;
+}
+
+.work-sample img {
+    width: 100%;
+    border-color: #de5499;
+}
+
+.work-sample-one {
+    margin: 20px;
+    background: #de5499;
+}
+
+.work-sample h3 {
+    color: #f2ebe9;
+    text-align: left;
+}
+
+.work-sample h4 {
+    color: #f2ebe9;
+    text-align: left;
+}
+
+.small-sample {
+    display: flex;
+    flex-direction: row;
+}
+
+.small-sample article {
+    width: 30%;
+}
+
+.small-sample img {
+    height: 250px;
+}
+
+.small-sample a {
+    text-decoration: none;
+}
+
+.info {
+    background-color: #f2ebe9;
+}
+  
+.info p {
+    line-height: 1.7;
+    color:#e99f4c;
+    width: 80%;
+    font-size: 15px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+  
+.section-title {
+    font-size: 25px;
+    color:rgb(38, 65, 67);
+    border-bottom: solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 30px auto 30px auto;
+}
+
+.primary-border {
+    border-color: #de5499;
+}
+  
+@media screen and (max-width: 980) {
+    .work-sample {
+        flex: 0 70%;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .work-sample {
+        flex: 0 100%;
+    }
+}
