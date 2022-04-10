@@ -13,14 +13,12 @@ This portfolio of work showcases the tech talents of Madeline Stoddard. It inclu
 
 ## Installation
 
-This website requires no installation. Click link to open webpage: [](Horiseon Website)
+This website requires no installation. Click link to open webpage: [https://madstoddard.github.io/portfolio/] (Madeline Stoddard's Website)
 
 ## Usage
 
-Use this website as a guide to gather more information about Horiseon as a company and what it can do to help your buisness, including an increase in profit margin.
+Use this website as a guide to gather more information about Madeline, the skills she posseses, and why she would be a perfect fit for your company!
 
-![Horiseon Webpage 1]()
-![Horiseon Webpage 2]()
 
 
 ## Credits
